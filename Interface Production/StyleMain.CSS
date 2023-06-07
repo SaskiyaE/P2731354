@@ -1,0 +1,21 @@
+/*This is to change the background colour*/
+body{
+    background-color: #9a9f9b;
+    text-align: center;
+
+}
+
+
+/* This is styling the first heading */
+h1{
+    font-family:courier;
+    font-family:courier;font-size:400%;text-align:center;
+    text-align: center;
+
+}
+/* This is styling the second heading */
+h2{
+    font-family: Helvetica;
+    font-family:courier;font-size:150%;text-align:center;
+    text-align: center;
+}
